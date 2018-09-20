@@ -84,7 +84,7 @@ background-color: black;
 
 h3{
   font-size: 28px;
-  color:#FF7000;
+  color:#FF0000;
   margin-right: auto;
   text-align: center;
   font-style: oblique;
@@ -102,7 +102,7 @@ h3{
     }
   h5{
     font-size: 27px;
-    color:#FF7000;
+    color:#FF0000;
     margin: center;
     text-align: center;
     /* background-color: black; */
@@ -110,7 +110,7 @@ h3{
     }
     h6{
       font-size: 27px;
-      color:#FF7000;
+      color:#FF0000;
       margin: center;
       text-align: center;
       /* background-color: black; */
