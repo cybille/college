@@ -181,8 +181,8 @@ div2{
     right
 }
 .button2:hover {
-  background-color: gold; /* white */
-      color: white;
+  background-color: black; /* white */
+      color: black;
 }
 
 .ad-left {
