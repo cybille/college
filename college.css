@@ -2,7 +2,7 @@ body{
 
   /* background-image: url("black"); */
   /* background-color: black; */
-  background-image: url("collegeback.jpg");
+  background-image: url("collegeback2.jpg");
   background-size: cover;
 }
 #body {
@@ -83,18 +83,19 @@ background-color: black;
   }
 
 h3{
-  font-size: 28px;
-  color:pink;
+  font-size: 30px;
+  color:#FF4000;
   margin-right: auto;
   text-align: center;
   font-style: oblique;
-/*   background-color: white; */
+ font-weight: bolder;
+ font-family: sans-serif;
   /* text-shadow: .9; */
   }
 
   h4{
     font-size: 30px;
-    color: pink;
+    color: #FF4000;
     margin-right: center;
     background-color: black;
     font-style: italic;
@@ -104,7 +105,7 @@ h3{
     }
   h5{
     font-size: 27px;
-    color: pink;
+    color: #FF4000;
     margin: center;
     text-align: center;
     /* background-color: black; */
@@ -114,7 +115,7 @@ h3{
     }
     h6{
       font-size: 27px;
-      color:pink;
+      color:#FF4000;
       margin: center;
       text-align: center;
       /* background-color: black; */
