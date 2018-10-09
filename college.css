@@ -24,15 +24,15 @@ html{
   }
   ul li{
   float: left;
-  width: 200px;
+  width: 250px;
   height:35px;
   background-color: white;
   color: black;
   opacity: .8;
   line-height: 13px;
   text-align: center;
-  font-size: 17px;
-  margin-right: 1px;
+  font-size: 19px;
+  margin-right: 2px;
   margin-bottom: 10px;
   border-top: 2px;
   /* border-radius: 50px; */
@@ -161,6 +161,7 @@ div2{
 }
 .button2 {
     background-color: white; /* white */
+    opacity: .8;
 
     display: block;
 
