@@ -2,7 +2,8 @@ body{
 
   /* background-image: url("black"); */
 /*   background-color: white; */
-  background-image: url("https://orig00.deviantart.net/2624/f/2018/286/b/4/untitled_drawing_by_bekycrystal-dcpd9fa.png");
+/*   background-image: url("https://orig00.deviantart.net/2624/f/2018/286/b/4/untitled_drawing_by_bekycrystal-dcpd9fa.png"); */
+  background-umage: url("c.png");
   background-size: cover;
 }
 #body {
@@ -85,7 +86,7 @@ background-color: black;
 
 h3{
   font-size: 30px;
-  color:#08088A;
+  color:black;
   margin-right: auto;
   text-align: center;
   font-style: oblique;
@@ -106,7 +107,7 @@ h3{
     }
   h5{
     font-size: 27px;
-    color: #08088A;
+    color: black;
     margin: center;
     text-align: center;
     /* background-color: black; */
@@ -116,7 +117,7 @@ h3{
     }
     h6{
       font-size: 27px;
-      color:#08088A;
+      color: white;
       margin: center;
       text-align: center;
       /* background-color: black; */
