@@ -51,11 +51,11 @@ html{
 ul li ul li{
   display: none;
   margin-top: 3px;
-  text-decoration: none;
-  color:#215A53;
 }
 ul li:hover ul li{
   display:block;
+   color:#215A53;
+
 }
 img{
   width: 450px;
@@ -83,7 +83,7 @@ background-color: black;
 
 h3{
   font-size: 30px;
-  color:<h5>;
+  color:#215A53;
   margin-right: auto;
   text-align: center;
   font-style: oblique;
