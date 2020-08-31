@@ -46,6 +46,8 @@ html{
   /* when mouse is over a button */
   ul li a:hover{
     background-color: white;
+     color:#215A53;
+
 
   }
 ul li ul li{
@@ -54,7 +56,6 @@ ul li ul li{
 }
 ul li:hover ul li{
   display:block;
-   color:#215A53;
 
 }
 img{
