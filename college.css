@@ -52,6 +52,8 @@ html{
   /* when mouse is over a button */
   ul li a:hover{
     background-color: white;
+    text-decoration: none;
+    color:#215A53;
   }
 ul li ul li{
   display: none;
