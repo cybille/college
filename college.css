@@ -28,7 +28,7 @@ html{
   float: left;
   width: 220px;
   height:35px;
-  background-color: blue;
+  background-color: #215A53;
   color: black;
   opacity: .8;
   line-height: 13px;
@@ -43,7 +43,7 @@ html{
   /* HOw it looks */
   ul li a{
     text-decoration: none;
-    color: black;
+    color: white;
     display: block;
     width:100%;
     height:100%;
@@ -78,7 +78,7 @@ h2{
   text-align:center;
   font-style: italic;
   font-size: 30px;
-  color: blue;
+  color: white;
 background-color: black;
 
 
@@ -97,7 +97,7 @@ h3{
 
   h4{
     font-size: 30px;
-    color: black;
+    color: white;
     margin-right: center;
     background-color: black;
     font-style: italic;
@@ -134,7 +134,7 @@ img{
 }
 /* creates button */
 .button {
-    background-color: blue; /* white */
+    background-color: ; /* white */
     text-decoration: none;
     border: 10px;
     color: black;
@@ -162,7 +162,7 @@ div2{
 
 }
 .button2 {
-    background-color: blue; /* #326479 */
+    background-color:#215A53 ; /* #326479 */
     opacity: .8;
 
     display: block;
@@ -175,8 +175,8 @@ div2{
     /* border-radius: 50px; */
     padding: 10px 10px;
     text-align: center;
-    text-decoration-color: black;
-    font-size: 15px;
+    text-decoration-color: white;
+    font-size: 18px;
     background-size: cover;
 
     -webkit-transition-duration: 0.4s; /* Safari */
