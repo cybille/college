@@ -1,10 +1,10 @@
 body{
 
   /* background-image: url("black"); */
-/*   background-color: white; */
+  background-color: white;
 /*   background-image: url("https://orig00.deviantart.net/2624/f/2018/286/b/4/untitled_drawing_by_bekycrystal-dcpd9fa.png"); */
-  background-image: url("c.png");
-  background-size: cover;
+/*   background-image: url("c.png");
+  background-size: cover; */
 }
 #body {
 height: 100%;
@@ -28,7 +28,7 @@ html{
   float: left;
   width: 220px;
   height:35px;
-  background-color: white;
+  background-color: blue;
   color: black;
   opacity: .8;
   line-height: 13px;
@@ -51,7 +51,7 @@ html{
   }
   /* when mouse is over a button */
   ul li a:hover{
-    background-color: orange;
+    background-color: white;
   }
 ul li ul li{
   display: none;
@@ -67,7 +67,7 @@ img{
 h1{
   /* background-image: url("download.jpg"); */
   text-align: center;
-  color: white;
+  color: black;
   font-size: 100px;
   font-style: italic;
   font-display: swap;
@@ -78,7 +78,7 @@ h2{
   text-align:center;
   font-style: italic;
   font-size: 30px;
-  color: white;
+  color: blue;
 background-color: black;
 
 
@@ -97,7 +97,7 @@ h3{
 
   h4{
     font-size: 30px;
-    color: white;
+    color: black;
     margin-right: center;
     background-color: black;
     font-style: italic;
@@ -117,7 +117,7 @@ h3{
     }
     h6{
       font-size: 27px;
-      color: white;
+      color: black;
       margin: center;
       text-align: center;
       /* background-color: black; */
@@ -134,7 +134,7 @@ img{
 }
 /* creates button */
 .button {
-    background-color: white; /* white */
+    background-color: blue; /* white */
     text-decoration: none;
     border: 10px;
     color: black;
@@ -162,7 +162,7 @@ div2{
 
 }
 .button2 {
-    background-color: white; /* #326479 */
+    background-color: blue; /* #326479 */
     opacity: .8;
 
     display: block;
@@ -184,7 +184,7 @@ div2{
     right
 }
 .button2:hover {
-  background-color: black; /* white */
+  background-color: white; /* white */
       color: black;
 }
 
