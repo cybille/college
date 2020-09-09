@@ -122,7 +122,12 @@ h3{
 /*         background-color: white; */
 
       }
-
+    h7{
+      font-size: 18px;
+      color: black;
+      margin: right;
+      text-align: right;
+}
 
 
 img{
